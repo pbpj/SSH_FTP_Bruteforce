@@ -1,0 +1,25 @@
+
+
+Data report: 2022-07-02 19:12:30.398385 | FTP Bruteforce | Host: 127.0.0.1 
+
+Data report: 2022-07-02 19:12:30.398385 | FTP Bruteforce | Host: 127.0.0.1 
+['[Failed] User: parrot | Password: formassao2021']
+['[Failed] User: parrot | Password: Formacao2021']
+['[Failed] User: kali | Password: formassao2021']
+['[Success] User: kali | Password: Formacao2021']
+Data report: 2022-07-02 19:12:30.398385 | SSH Bruteforce | Host: 127.0.0.1 
+['[Failed] User: parrot | Password: formassao2021']
+['[Failed] User: parrot | Password: Formacao2021']
+['[Failed] User: kali | Password: formassao2021']
+['[Success] User: kali | Password: Formacao2021']
+
+Data report: 2022-07-04 16:14:30.937952 | FTP Bruteforce | Host: 127.0.0.1 
+['[Failed] User: parrot | Password: formassao2021']
+['[Failed] User: parrot | Password: Formacao2021']
+['[Failed] User: kali | Password: formassao2021']
+['[Success] User: kali | Password: Formacao2021']
+Data report: 2022-07-04 16:14:30.937952 | SSH Bruteforce | Host: 127.0.0.1 
+['[Failed] User: parrot | Password: formassao2021']
+['[Failed] User: parrot | Password: Formacao2021']
+['[Failed] User: kali | Password: formassao2021']
+['[Success] User: kali | Password: Formacao2021']
